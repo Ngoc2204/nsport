@@ -1,2 +1,5 @@
 # nsport
-php
+Công nghệ sử dụng:
+PHP
+HTML
+CSS
